@@ -7,7 +7,7 @@
 <br><div>
   <a href="https://github.com/Jr-Davi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jr-Davi&count_private=true&show_icons=true&theme=dark">
-    <img alt="pc" height="180" width="180" src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif?cid=ecf05e472sech2pmn7enjvn83g7drz7qqpo9t5dpg5w7ngas&rid=giphy.gif&ct=g">
+    <img alt="pc" height="180" width="180" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif?cid=ecf05e47q7oqoxms4njy10vd0t7nopx7pnt3n654mqq15kb9&rid=giphy.gif&ct=g">
 </div>
 
 <h2>Tecnologias:<h2>
