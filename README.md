@@ -1,7 +1,7 @@
 ### Olá!
 
 
-- 💻 Pretendo trabalhar com Desenvolvimento web front-end
+- 💻 Curioso em Desenvolvimento web front-end
 - 📜 Estudando e revisando melhor sobre o Javascript
 
 <br><div>
